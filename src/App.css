@@ -1,1 +1,4 @@
 @import 'reactflow/dist/style.css';
+body {
+  margin: unset;
+}
